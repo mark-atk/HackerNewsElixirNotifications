@@ -1,6 +1,6 @@
 defmodule HNE.Mailer do
   @moduledoc """
-  Module sets up mailing config as well as function
+  Module sets up mailing config as well as email sending functionality.
   """
 
   @doc """
