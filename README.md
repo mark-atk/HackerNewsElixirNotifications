@@ -1,20 +1,5 @@
-# HNE
+# Hacker News Elixir Notifications
 
-**TODO: Add description**
+HNEN is my first attempt at an Elixir project. The apps purpose is to scan the top 150 Hacker News stories via their Firebase API and then email any news stories with either Elixir or Erlang in the title.
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add hne to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:hne, "~> 0.0.1"}]
-        end
-
-  2. Ensure hne is started before your application:
-
-        def application do
-          [applications: [:hne]]
-        end
 
